@@ -18,3 +18,4 @@ def get_mask_account(account_number: str) -> str | None:
 
 
 print(get_mask_account("счет 73654108430135874305"))
+
